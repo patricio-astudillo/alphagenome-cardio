@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: >-
+  AlphaGenome Cardiovascular Non-Coding Variant Analysis Pipeline
+message: >-
+  If you use this software, please cite both the associated
+  manuscript and this software record.
+type: software
+authors:
+  - family-names: "Astudillo"
+    given-names: "Patricio"
+    orcid: "https://orcid.org/0000-0002-5503-6217"
+repository-code: "https://github.com/patricio-astudillo/alphagenome-cardio"
+license: MIT
+version: "1.0.0"
+date-released: "2026-04-XX"
+preferred-citation:
+  type: article
+  title: >-
+    Systematic Characterization of Cardiovascular Non-Coding Variants
+    Using AlphaGenome
+  authors:
+    - family-names: "Astudillo"
+      given-names: "Patricio"
+  year: 2026
+  journal: <TODO>
+  doi: "<TODO>"

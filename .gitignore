@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+
+# Data files — never commit to GitHub (too large; deposited on Zenodo)
+*.parquet
+*.tsv
+*.xlsx
+*.txt.gz
+*.h5
+*.hdf5
+*.npy
+data/
+scoring_output/
+ws3_output/
+ws3_output_v2/
+ws567_output/
+manuscript/figures/*.png
+manuscript/figures/*.pdf
+manuscript/tables/supp_S3_*
+manuscript/tables/supp_S4_*
+
+# Credentials — CRITICAL
+.env
+*.key
+api_key.txt
+.alphagenome/
+secrets/
+credentials/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
