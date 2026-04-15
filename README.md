@@ -2,7 +2,7 @@
 
 Code accompanying the manuscript *"Systematic Characterization of Cardiovascular Non-Coding Variants Using AlphaGenome"*.
 
-Data deposit: [Zenodo DOI once assigned — placeholder](https://doi.org/10.5281/zenodo.XXXXXXX)
+Data deposit: [Zenodo DOI](https://doi.org/10.5281/zenodo.19590763)
 
 ## Overview
 
